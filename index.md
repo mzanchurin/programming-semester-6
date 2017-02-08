@@ -10,9 +10,6 @@ layout: default
 ## Задачи шестого семестра. Введение в MPI
 [презентация — html](presentations/01-Introduction-MPI.html)
 
-### Исправления
-
-- **03.03.2016** изменён порядок `#include <mpi.h>` и `#include <stdio.h>` в минимальном примере, чтобы избежать предупреждения в дисплейном классе. Нужно включать сначала `mpi.h`, а потом — `stdio.h`.
 
 ## Отладка в MPI
 [презентация — html](presentations/02-MPI-rest.html)
@@ -20,9 +17,6 @@ layout: default
 ## Распределение матрицы
 [презентация — html](presentations/03-Matrix-Distribution.html)
 
-### Исправления
-
-- **10.03.2016** убран некорректный метод распределения матрицы с помощью MPI_Type_vector.
 
 ## Пересылка сообщений в рамках одного процесса
 [презентация — html](presentations/04-MPI-send-to-self.html)
