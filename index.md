@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Для
 [Краткая справка по MPI](MPI-cheatsheet)
 
 # Презентации
@@ -10,9 +9,8 @@ layout: default
 ## Задачи шестого семестра. Введение в MPI
 [презентация — html](presentations/01-Introduction-MPI.html)
 
-
-## Отладка в MPI
-[презентация — html](presentations/02-MPI-rest.html)
+<!--## Отладка в MPI
+[презентация — html](presentations/02-MPI-rest.html)-->
 
 ## Распределение матрицы
 [презентация — html](presentations/03-Matrix-Distribution.html)
